@@ -1,0 +1,15 @@
+package: community.lazycat.app.octopus
+version: 0.9.14
+name: Octopus
+description: "为个人打造的简单、美观、优雅的 LLM API 聚合与负载均衡服务"
+min_os_version: 1.5.0
+homepage: https://github.com/bestruirui/octopus
+author: bestruirui
+
+locales:
+  zh:
+    name: "Octopus"
+    description: "为个人打造的简单、美观、优雅的 LLM API 聚合与负载均衡服务"
+  en:
+    name: "Octopus"
+    description: "A simple, beautiful, and elegant LLM API aggregation and load balancing service tailored for individuals"
