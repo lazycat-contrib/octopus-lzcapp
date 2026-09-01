@@ -1,5 +1,5 @@
 package: community.lazycat.app.octopus
-version: 0.12.1
+version: 0.13.0
 name: Octopus
 description: "为个人打造的简单、美观、优雅的 LLM API 聚合与负载均衡服务"
 min_os_version: 1.5.0
