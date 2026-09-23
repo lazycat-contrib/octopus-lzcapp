@@ -9,7 +9,7 @@ application:
 services:
   octopus:
     #  ghcr.io/bestruirui/octopus:v0.9.14
-    # upstream: ghcr.io/bestruirui/octopus:v0.13.6
-    image: registry.lazycat.cloud/czyt/bestruirui/octopus:5ac22adbcdff403d
+    # upstream: ghcr.io/bestruirui/octopus:v0.13.8
+    image: registry.lazycat.cloud/czyt/bestruirui/octopus:647f2764c995a402
     binds:
       - /lzcapp/var/data:/app/data
