@@ -1,4 +1,5 @@
 package: community.lazycat.app.octopus
+license: AGPL-3.0
 version: 0.13.10
 name: Octopus
 description: "为个人打造的简单、美观、优雅的 LLM API 聚合与负载均衡服务"
